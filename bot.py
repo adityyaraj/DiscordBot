@@ -80,4 +80,5 @@ async def on_message(message):
   
   if message.content.startswith('Happy New Year'):
     await message.channel.send ('Happy New Year')  
-client.run(os.getenv('hippoa'))
+client.run(os.getenv('Key...'))
+#Enter you discord bot key here
